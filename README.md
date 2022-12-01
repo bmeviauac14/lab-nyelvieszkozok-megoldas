@@ -1,1 +1,1 @@
-# Lab2CSharp
+# Szoftvertechnikák Modern nyelvi elemek labor megoldása
