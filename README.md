@@ -1,1 +1,1 @@
-# Szoftvertechnikák Modern nyelvi elemek labor megoldása
+# Szoftvertechnikák "Nyelvi eszközök" labor megoldása
