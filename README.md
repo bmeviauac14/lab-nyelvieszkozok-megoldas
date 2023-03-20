@@ -1,1 +1,1 @@
-# Szoftvertechnikák "Nyelvi eszközök" labor megoldása
+# "Nyelvi eszközök" labor megoldása
